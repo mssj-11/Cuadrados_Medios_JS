@@ -1,1 +1,3 @@
-# Cuadrados_Medios_JS
+# Algoritmo de Cuadrados Medios en JavaScript
+
+

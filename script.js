@@ -34,7 +34,7 @@ function mostrarResultados(resultados) {
                     <th>Semilla</th>
                     <th>(Xi)^2</th>
                     <th>Largo (dígitos)</th>
-                    <th>Xi seleccionado</th>
+                    <th>Xi</th>
                     <th>ri</th>
                 </tr>
             </thead>
